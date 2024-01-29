@@ -82,7 +82,7 @@ A professional with a blend of technical expertise, creative insight, and strong
 
 ### [Control Override](https://store.steampowered.com/app/1406090/ControlOverride/) (PC Game)
 - **Technologies Used:** Unity 2D, C#, URP, localization, yarnspinner, visualeffectgraph
-- **Role:** Support and porting
+- **Role:** porting
 - **Description:** A puzzle game where you must share control between the environment and yourself.
 
 
